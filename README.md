@@ -1,3 +1,3 @@
 # Examen Css 3
 Aqui aprendemos a hacer la identidad corporativa de nuestra empresa. Usamos algunas variables de css y le damos animación.
-<img src="./images/logo.png">
+![GitHub Logo](/images/logo.png)
